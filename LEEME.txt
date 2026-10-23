@@ -1,0 +1,13 @@
+MIS FINANZAS - app instalable (PWA)
+
+Subi TODOS estos archivos juntos a un hosting con HTTPS (Netlify Drop, GitHub Pages, Cloudflare Pages, etc.).
+Despues abri la direccion en Chrome del celular > menu (3 puntos) > "Instalar app" / "Agregar a pantalla de inicio".
+La primera vez que abris necesita internet; despues funciona sin conexion.
+Tus datos se guardan solo en el celular. Para pasar los del archivo anterior: Resumen > Descargar copia, y en la app instalada Restaurar copia.
+
+ACCESO RAPIDO PARA CARGAR MOVIMIENTOS:
+Una vez instalada, mantene presionado el icono de la app en la pantalla de inicio.
+Deberia aparecer un accesorio llamado "Agregar movimiento" que abre directo el
+formulario de carga, sin pasar por el resto de la app y SIN pedir PIN ni huella,
+aunque el bloqueo este activado. El resto de la app (saldos, movimientos pasados,
+etc.) sigue protegido igual que siempre.
